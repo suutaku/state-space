@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/john/Desktop/cntel/仿生机器人2期/PlanA/source/state-space/build",
+  "command": "/usr/bin/clang++ -I../include -I/usr/local/include/eigen3 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -o CMakeFiles/state-space_test.dir/main.cpp.o -c /Users/john/Desktop/cntel/仿生机器人2期/PlanA/source/state-space/main.cpp",
+  "file": "/Users/john/Desktop/cntel/仿生机器人2期/PlanA/source/state-space/main.cpp"
+},
+{
+  "directory": "/Users/john/Desktop/cntel/仿生机器人2期/PlanA/source/state-space/build",
+  "command": "/usr/bin/clang++ -I../include -I/usr/local/include/eigen3 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -o CMakeFiles/state-space.dir/src/state_space.cpp.o -c /Users/john/Desktop/cntel/仿生机器人2期/PlanA/source/state-space/src/state_space.cpp",
+  "file": "/Users/john/Desktop/cntel/仿生机器人2期/PlanA/source/state-space/src/state_space.cpp"
+}
+]
